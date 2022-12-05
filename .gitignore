@@ -1,0 +1,11 @@
+node_modules
+node_modules_linux
+.next
+build
+out
+reports
+styleguide
+jsdoc
+yarn.lock
+utils/static/holiday.json
+utils/static/cityMap.json
