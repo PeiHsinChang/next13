@@ -6,6 +6,7 @@ export default (props) => {
   console.log(props);
   return <div>CCCC</div>;
 };
+// https://www.quintessential.gr/blog/development/how-to-integrate-redux-with-next-js-and-ssr
 
 //https://stackoverflow.com/questions/66081052/
 export const getServerSideProps = AAA(
